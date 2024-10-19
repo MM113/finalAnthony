@@ -1,10 +1,13 @@
+body{
+    background: url(../images/large/manysidekicks.jpg) center; 
+}
+
 .container{
   max-width: 105%;
   max-height: auto;
 }
 
 .hero {
-  background: url(../images/large/manysidekicks.jpg) center; 
   background-size: cover;
   padding: 10%;
   height: 100vh;
